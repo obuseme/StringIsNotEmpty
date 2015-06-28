@@ -1,0 +1,6 @@
+framework module StringIsNotEmpty {
+  umbrella header "Pods-StringIsNotEmpty_Example-StringIsNotEmpty-umbrella.h"
+
+  export *
+  module * { export * }
+}

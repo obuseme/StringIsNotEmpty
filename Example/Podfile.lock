@@ -1,0 +1,14 @@
+PODS:
+  - StringIsNotEmpty (0.1.0)
+
+DEPENDENCIES:
+  - StringIsNotEmpty (from `../`)
+
+EXTERNAL SOURCES:
+  StringIsNotEmpty:
+    :path: ../
+
+SPEC CHECKSUMS:
+  StringIsNotEmpty: ebe5b252d0daff3e872882373e029422c31cdf99
+
+COCOAPODS: 0.37.2

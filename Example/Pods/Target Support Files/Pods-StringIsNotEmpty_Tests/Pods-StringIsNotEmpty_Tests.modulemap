@@ -1,0 +1,6 @@
+framework module Pods_StringIsNotEmpty_Tests {
+  umbrella header "Pods-StringIsNotEmpty_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
